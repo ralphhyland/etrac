@@ -1,0 +1,1 @@
+Administration application for student details, grades etc.
